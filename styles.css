@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yevin Semitha Photography</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Yevin Semitha Photography Logo">
+        </div>
+        <div class="welcome-text">
+            <h1>Welcome to Yevin Semitha Photography</h1>
+            <p>Adventuring through life one frame at a time.</p>
+            <a href="https://www.instagram.com/yevin_semitha_photography/" target="_blank" class="btn">Follow Me on Instagram</a>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Add more content for gallery, about, and contact sections below -->
+
+</body>
+</html>
